@@ -1,9 +1,6 @@
 string Solution::solve(string a) {
     // bool ok=next_permutation(a.begin(),a.end());
-    // if(ok)
-    //     return a;
-    // else 
-    //     return "-1";
+//         return ok?a:"-1";
 
     // OR
 
