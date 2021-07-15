@@ -32,6 +32,7 @@ Example Output
 Output 1:
 
  6
+ ![Rain_water prob](https://user-images.githubusercontent.com/63565510/125855168-b90ed5a2-7af3-474f-91f2-e11b14481f72.jpeg)
 Output 2:
 
  0
@@ -44,4 +45,4 @@ Explanation 1:
  In this case, 6 units of rain water (blue section) are being trapped.
 Explanation 2:
 
- No water is trapped.![Rain_water prob](https://user-images.githubusercontent.com/63565510/125855168-b90ed5a2-7af3-474f-91f2-e11b14481f72.jpeg)
+ No water is trapped.
