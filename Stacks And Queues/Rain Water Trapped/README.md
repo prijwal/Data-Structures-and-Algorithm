@@ -32,7 +32,11 @@ Example Output
 Output 1:
 
  6
- ![Rain_water prob](https://user-images.githubusercontent.com/63565510/125855168-b90ed5a2-7af3-474f-91f2-e11b14481f72.jpeg)
+
+
+![Rain_water prob](https://user-images.githubusercontent.com/63565510/125855168-b90ed5a2-7af3-474f-91f2-e11b14481f72.jpeg)
+
+
 Output 2:
 
  0
