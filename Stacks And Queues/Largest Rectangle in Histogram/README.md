@@ -3,9 +3,11 @@ Given an array of integers A of size N. A represents a histogram i.e A[i] denote
 the ith histogram’s bar. Width of each bar is 1.
 
 Largest Rectangle in Histogram: Example 1
+
 ![1](https://user-images.githubusercontent.com/63565510/126015132-6e526786-23d7-4a82-a5b2-75e0fd58e420.png)
 
 Above is a histogram where width of each bar is 1, given height = [2,1,5,6,2,3].
+
 ![F2bePvG](https://user-images.githubusercontent.com/63565510/126015151-e14eba0c-1050-448f-85ed-08ef8ff106df.png)
 
 Largest Rectangle in Histogram: Example 2
