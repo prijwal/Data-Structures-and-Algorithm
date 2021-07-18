@@ -6,7 +6,7 @@ void selectionSort(vector<int> &a)
         int min_idx = i;
         for (int j=i+1;j<n;j++)
         {
-            if (arr[j] < arr[min_idx])
+            if (a[j] < a[min_idx])
                 min_idx = j;
         }
         swap(a[min_idx],a[i]);
