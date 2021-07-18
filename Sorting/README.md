@@ -1,11 +1,11 @@
 Types of Sorting Algorithms:
-Quick Sort ---> Not stable
-Bubble Sort ---> Stable
-Merge Sort ---> Stable
-Insertion Sort ---> Stable
-Selection Sort ---> Not stable
-Heap Sort --->  Not stable
-Bucket Sort ---> Stable
+Quick Sort ---> Not stable,
+Bubble Sort ---> Stable,
+Merge Sort ---> Stable,
+Insertion Sort ---> Stable,
+Selection Sort ---> Not stable,
+Heap Sort --->  Not stable,
+Bucket Sort ---> Stable,
 
 
 
