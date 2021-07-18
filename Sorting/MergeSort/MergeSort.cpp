@@ -1,4 +1,4 @@
-void merge(int v[], int s, int mid, int e)
+void merge(vector<int> &v, int s, int mid, int e)
 {
     int i=s;
     int j=mid+1;
@@ -18,7 +18,7 @@ void merge(int v[], int s, int mid, int e)
     for(int i=s;i<=e;i++)
         v[i]=temp[i-s];
 }
-void mergeSort(int v[], int s, int e)
+void mergeSort(vector<int> &v, int s, int e)
 {
     if(s>=e) // Base condition : if(size==0 || size==1) return ;
         return ;
