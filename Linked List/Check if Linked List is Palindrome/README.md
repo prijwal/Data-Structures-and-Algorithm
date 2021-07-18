@@ -9,6 +9,7 @@ Output: 1
 Explanation: The given linked list is
 1 2 1 , which is a palindrome and
 Hence, the output is 1.
+
 Example 2:
 
 Input:
