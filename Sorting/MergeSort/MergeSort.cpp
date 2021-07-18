@@ -20,13 +20,13 @@ void merge(int v[], int s, int mid, int e)
 }
 void mergeSort(int v[], int s, int e)
 {
-if(s>=e) // Base condition : if(size==0 || size==1) return ;
-    return ;
-
-int mid=(s+e)/2;
-
-// Dividing the array 
-mergeSort(v,s,mid);
+    if(s>=e) // Base condition : if(size==0 || size==1) return ;
+        return ;
+    
+    int mid=(s+e)/2;
+    
+    // Dividing the array 
+    mergeSort(v,s,mid);
     mergeSort(v,mid+1,e);
     
     // Merging the array
