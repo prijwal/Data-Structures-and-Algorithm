@@ -24,7 +24,7 @@ Constraints
 1 <= A[i] <= 10^9
 all elements in A are disitinct.
 For Example
-
+```
 Input 1:
     A = [4, 5, 6, 7, 0, 1, 2, 3]
     B = 4
@@ -39,3 +39,4 @@ Input 2:
     B = 6
 Output 2:
     -1
+```
