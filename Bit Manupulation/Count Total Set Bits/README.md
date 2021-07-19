@@ -39,7 +39,6 @@ Output 2:
 
  1
 
-```
 Example Explanation
 Explanation 1:
 
@@ -55,3 +54,4 @@ Explanation 2:
   DECIMAL    BINARY  SET BIT COUNT
     1          01        1
  Answer = 1 % 1000000007 = 1
+ ```
