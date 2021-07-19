@@ -11,21 +11,25 @@ The nth fibonacci number Fn = Fn-1 + Fn-2 (n > 2)
 
 
 Problem Constraints
+
 1 <= A <= 109.
 
 
 
 Input Format
+
 First argument is an integer A.
 
 
 
 Output Format
+
 Return a single integer denoting Ath fibonacci number modulo 109 + 7.
 
 
 
 Example Input
+```
 Input 1:
 
  A = 4
@@ -42,12 +46,14 @@ Output 2:
 
  2
 
-
+```
 Example Explanation
+
 Explanation 1:
 
  F3 = F2 + F1 = 1 + 1 = 2
  F4 = F3 + F2 = 2 + 1 = 3
+ 
 Explanation 2:
 
  F3 = F2 + F1 = 1 + 1 = 2
