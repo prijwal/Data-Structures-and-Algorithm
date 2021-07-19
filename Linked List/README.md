@@ -1,5 +1,5 @@
 Linked list is defined in this way in all obove questions 
-
+```
 struct Node
 
 {
