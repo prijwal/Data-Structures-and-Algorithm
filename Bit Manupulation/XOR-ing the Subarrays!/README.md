@@ -5,7 +5,7 @@ Given an integer array A of size N.
 You need to find the value obtained by XOR-ing the contiguous subarrays, followed by XOR-ing the values thus obtained. Determine and return this value.
 
 For example, if A = [3, 4, 5] :
-
+```
 Subarray    Operation   Result
 3       None            3
 4       None            4
@@ -53,7 +53,7 @@ Output 1:
 Output 2:
 
  0
-
+```
 
 Example Explanation
 Explanation 1:
