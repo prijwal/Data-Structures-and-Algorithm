@@ -22,7 +22,7 @@ Constraints
 1 <= A[i] <= 10^9
 N*M is odd
 For Example
-
+```
 Input 1:
     A = [   [1, 3, 5],
             [2, 6, 9],
@@ -36,4 +36,5 @@ Explanation 1:
 Input 2:
     A = [   [5, 17, 100]    ]
 Output 2:
-    17 ``` Matrix=
+    17 
+```
