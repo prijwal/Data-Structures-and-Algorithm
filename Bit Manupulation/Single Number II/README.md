@@ -8,16 +8,16 @@ Could you implement it without using extra memory?
 
 Input Format:
 
-    First and only argument of input contains an integer array A
+First and only argument of input contains an integer array A
 Output Format:
 
-    return a single integer.
+return a single integer.
 Constraints:
 
 2 <= N <= 5 000 000  
 0 <= A[i] <= INT_MAX
 For Examples :
-
+```
 Example Input 1:
     A = [1, 2, 4, 3, 3, 2, 2, 3, 1, 1]
 Example Output 1:
@@ -28,3 +28,4 @@ Example Input 2:
     A = [0, 0, 0, 1]
 Example Output 2:
     1
+```
