@@ -3,7 +3,7 @@ Given an even number ( greater than 2 ), return two prime numbers whose sum will
 NOTE A solution will always exist. read Goldbach’s  conjecture
 
 Example:
-
+```
 
 Input : 4
 Output: 2 + 2 = 4
@@ -16,3 +16,4 @@ and [c,d] is another solution with c <= d, then
 [a, b] < [c, d] 
 
 If a < c OR a==c AND b < d.
+```
