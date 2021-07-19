@@ -22,7 +22,7 @@ Constraints:
 1 <= length(B) = length(C) <= 1e5
 1 <= B[i], C[i] <= A
 Example:
-
+```
 Input 1:
     A = 3
     B = [1, 2]
@@ -39,9 +39,10 @@ Input 2:
     A = 2
     B = [1, 2]
     C = [2, 1]
-
+ 
 Output 2:
     0
 
 Explanation 2:
     It is not possible to complete all the courses.
+   
