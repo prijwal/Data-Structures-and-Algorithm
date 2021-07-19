@@ -31,6 +31,7 @@ Return a single integer denoting the position (0 index based) of the element B i
 
 
 Example Input
+```
 Input 1:
 
  A = [3, 9, 10, 20, 17, 5, 1]
@@ -48,7 +49,7 @@ Output 1:
 Output 2:
 
  -1
-
+```
 
 Example Explanation
 Explanation 1:
