@@ -26,6 +26,7 @@ Return a single interger denoting the length of largest region.
 
 
 Example Input
+```
 Input 1:
 
  A = [  [0, 0, 1, 1, 0]
@@ -62,6 +63,6 @@ Explanation 2:
  The largest region is:
     111
     001
-
+```
 
 Note:You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified. Still have a doubt? Checkout Sample Codes for more details.
