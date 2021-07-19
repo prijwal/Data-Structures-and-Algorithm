@@ -28,6 +28,7 @@ Return a single integer denoting the largest distance between two nodes in a tre
 
 
 Example Input
+```
 Input 1:
 
  A = [-1, 0, 0, 0, 3]
@@ -50,3 +51,4 @@ Explanation 1:
                 4
 
  One of the longest path is 1 -> 0 -> 3 -> 4 and its length is 3, thus the answer is 3.
+```
