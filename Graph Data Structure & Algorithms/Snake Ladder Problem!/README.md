@@ -39,6 +39,7 @@ Return the least number of rolls to move from start to finish on a separate line
 
 
 Example Input
+```
 Input 1:
 
  A = [  [32, 62]
@@ -78,8 +79,9 @@ Output 2:
 
  5
 
-
+```
 Example Explanation
+
 Explanation 1:
 
  The player can roll a 5 and a 6 to land at square 12. There is a ladder to square 98. A roll of 2 ends the traverse in 3 rolls.
