@@ -8,16 +8,19 @@ Return the number of black shapes. A black shape consists of one or more adjacen
 
 Input Format:
 
-    The First and only argument is a N x M character matrix.
+The First and only argument is a N x M character matrix.
+
 Output Format:
 
-    Return a single integer denoting number of black shapes.
+Return a single integer denoting number of black shapes.
+
 Constraints:
 
-    1 <= N,M <= 1000
-    A[i][j] = 'X' or 'O'
-Example:
+1 <= N,M <= 1000
+A[i][j] = 'X' or 'O'
 
+Example:
+```
 Input 1:
     A = [ OOOXOOO
           OOXXOXO
@@ -38,4 +41,5 @@ Note: we are looking for connected shapes here.
 XXX
 XXX
 XXX
+```
 is just one single connected black shape.
