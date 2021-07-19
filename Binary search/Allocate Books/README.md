@@ -26,7 +26,7 @@ Constraints
 1 <= N <= 10^5
 1 <= A[i] <= 10^5
 For Example
-
+```
 Input 1:
     A = [12, 34, 67, 90]
     B = 2
@@ -49,3 +49,4 @@ Input 2:
     B = 4
 Output 2:
     100
+```
