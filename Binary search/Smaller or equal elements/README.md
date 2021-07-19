@@ -26,6 +26,7 @@ Return an integer denoting the number of elements which are less than or equal t
 
 
 Example Input
+```
 Input 1:
 
  A = [1, 3, 4, 4, 6]
@@ -52,3 +53,4 @@ Explanation 1:
 Explanation 2:
 
  Elements (1, 2) are less than or equal to 3.
+```
