@@ -31,7 +31,7 @@ Constraints
 1 <= C.size() <= 10^5
 1 <= C[i] <= 10^6
 For Example
-
+```
 Input 1:
     A = 2
     B = 5
@@ -50,3 +50,4 @@ Input 2:
     C = [1, 8, 11, 3]
 Output 2:
     11
+```
