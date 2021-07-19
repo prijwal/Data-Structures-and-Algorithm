@@ -34,7 +34,7 @@ Return a single integer denoting the maximum product prossible of sum of weights
 
 Example Input
 Input 1:
-
+```
  A = [10, 5, 12, 6]
  B = [
 
@@ -59,13 +59,15 @@ Output 2:
 
  132
 
-
+```
 Example Explanation
+
 Explanation 1:
 
  Removing edge (1, 4) created two subtrees.
  Subtree-1 contains nodes (1, 2) and Subtree-2 contains nodes (3, 4)
  So product will be = (A[1] + A[2]) * (A[3] + A[4]) = 15 * 18 = 270
+ 
 Explanation 2:
 
  Removing edge (1, 2) created two subtrees.
