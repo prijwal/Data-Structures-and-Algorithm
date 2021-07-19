@@ -7,6 +7,7 @@ Given an array A of N non-negative integers, find the sum of hamming distances o
 
 
 Problem Constraints
+
 1 <= |A| <= 200000
 
 1 <= A[i] <= 109
@@ -14,16 +15,19 @@ Problem Constraints
 
 
 Input Format
+
 First and only argument is array A.
 
 
 
 Output Format
+
 Return one integer, the answer to the problem.
 
 
 
 Example Input
+```
 Input 1:
 
  A = [1]
@@ -40,11 +44,13 @@ Output 2:
 
  8
 
-
+```
 Example Explanation
+
 Explanation 1:
 
  No pairs are formed.
+ 
 Explanation 2:
 
  We return, f(2, 2) + f(2, 4) + f(2, 6) + f(4, 2) + f(4, 4) + f(4, 6) + f(6, 2) + f(6, 4) + f(6, 6) = 8
