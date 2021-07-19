@@ -13,7 +13,7 @@ Note that all the operations have to be constant time operations.
 
 
 Questions to ask the interviewer :
-
+```
 Q: What should getMin() do on empty stack? 
 
 A: In this case, return -1.
@@ -27,5 +27,5 @@ A: In this case, nothing.
 Q: What should top() do on empty stack?
 
 A: In this case, return -1
-
+```
 NOTE : If you are using your own declared global variables, make sure to clear them out in the constructor.
