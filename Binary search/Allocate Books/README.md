@@ -40,8 +40,9 @@ Explanation 1:
         Max number of pages is allocated to student 2 with 67 + 90 = 157 pages 
         3) [12, 34, 67] and [90]
         Max number of pages is allocated to student 1 with 12 + 34 + 67 = 113 pages
+        of the 3 cases, Option 3 has the minimum pages = 113
 
-        Of the 3 cases, Option 3 has the minimum pages = 113.
+       
 
 Input 2:
     A = [5, 17, 100, 11]
