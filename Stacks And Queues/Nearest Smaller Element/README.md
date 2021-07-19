@@ -11,10 +11,13 @@ Elements for which no smaller element exist, consider next smaller element as -1
 Input Format
 
 The only argument given is integer array A.
+
 Output Format
 
 Return the integar array G such that G[i] contains nearest smaller number than A[i].If no such element occurs G[i] should be -1.
+
 For Example
+```
 
 Input 1:
     A = [4, 5, 2, 10, 8]
