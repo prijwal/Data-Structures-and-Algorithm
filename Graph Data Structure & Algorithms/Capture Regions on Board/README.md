@@ -22,6 +22,7 @@ Make changes to the the input only as matrix is passed by reference.
 
 
 Example Input
+```
 Input 1:
 
  A = [  [X, X, X, X],
@@ -40,8 +41,9 @@ Output 1:
         [X, O, X, X]
      ]
 
-
+```
 Example Explanation
+
 Explanation 1:
 
  'O' in (4,2) is not surrounded by X from below.
