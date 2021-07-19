@@ -4,6 +4,7 @@ Given a link list of size N, modify the list such that all the even numbers appe
 Example 1:
 
 Input: 
+```
 N = 7
 Link List = 
 17 -> 15 -> 8 -> 9 -> 2 -> 4 -> 6 -> NULL
@@ -23,10 +24,14 @@ Output: 1 3 5 7
 
 Explaination: There is no even number. 
 So ne need for modification.
-
+```
 Your Task:
+
 You do not need to read input or print anything. Your task is to complete the function divide() which takes N and head of Link List as input parameters and returns the head of modified link list.
 
 
 Expected Time Complexity: O(N)
+
 Expected Auxiliary Space: O(N)
+
+
