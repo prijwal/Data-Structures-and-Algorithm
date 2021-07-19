@@ -8,6 +8,7 @@ Remove the loop from the linked list, if it is present.
 Example 1:
 
 Input:
+```
 N = 3
 value[] = {1,3,4}
 X = 2
@@ -28,15 +29,20 @@ X = 0
 Output: 1
 Explanation: The Linked list does not 
 contains any loop. 
-
+```
 Your Task:
+
 You don't need to read input or print anything. Your task is to complete the function removeLoop() which takes the head of the linked list as input parameter. Simply remove the loop in the list (if present) without disconnecting any nodes from the list.
 Note: The generated output will be 1 if your submitted code is correct.
 
 
 Expected time complexity : O(N)
+
 Expected auxiliary space : O(1)
 
 
+
 Constraints:
+
 1 ≤ N ≤ 104
+
