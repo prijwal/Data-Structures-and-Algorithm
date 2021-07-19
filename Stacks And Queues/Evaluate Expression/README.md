@@ -8,11 +8,13 @@ Valid operators are +, -, *, /. Each operand may be an integer or another expres
 Input Format
 
 The only argument given is character array A.
+
 Output Format
 
 Return the value of arithmetic expression formed using reverse Polish Notation.
-For Example
 
+For Example
+```
 Input 1:
     A =   ["2", "1", "+", "3", "*"]
 Output 1:
