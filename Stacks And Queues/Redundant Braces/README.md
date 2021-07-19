@@ -21,8 +21,8 @@ For Example
 
 Input 1:
 ```
-    A = "((a + b))"
-Output 1:
+  A = "((a + b))"
+  Output 1:
 
   1
     
@@ -31,13 +31,13 @@ Output 1:
   ((a + b)) has redundant braces so answer will be 1.
         
 
-Input 2:
+  Input 2:
 
-    A = "(a + (a + b))"
+   A = "(a + (a + b))"
     
-Output 2:
-  0
+   Output 2:
+   0
     
- Explanation 2:
+   Explanation 2:
     
- (a + (a + b)) doesn't have have any redundant braces so answer will be 0.
+   (a + (a + b)) doesn't have have any redundant braces so answer will be 0.
