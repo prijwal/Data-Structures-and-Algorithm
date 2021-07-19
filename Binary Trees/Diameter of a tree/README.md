@@ -9,7 +9,11 @@ Input:
        1
      /  \
     2    3
+    
+    
 Output: 3
+
+
 Example 2:
 
 Input:
@@ -18,8 +22,13 @@ Input:
       20    30
     /   \ 
    40   60
+   
+   
 Output: 4
+
+
 Your Task:
+
 You need to complete the function diameter() that takes root as parameter and returns the diameter.
 
 Expected Time Complexity: O(N).
