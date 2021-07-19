@@ -7,21 +7,25 @@ B is formed such that we have to find first non-repeating character each time a 
 
 
 Problem Constraints
+
 1 <= length of the string <= 100000
 
 
 
 Input Format
+
 The only argument given is string A.
 
 
 
 Output Format
+
 Return a string B after processing the stream of lowercase alphabets A.
 
 
 
 Example Input
+```
 Input 1:
 
  A = "abadbc"
@@ -56,3 +60,4 @@ Explanation 2:
     "abca"   -   first non repeating character 'b'
     "abcab"  -   first non repeating character 'c'
     "abcabc" -   no non repeating character so '#'
+```
