@@ -21,7 +21,7 @@ Output Format
 Return a integer array sorted in ascending order denoting the stepping numbers between A and B.
 
 
-
+```
 Example Input
 Input 1:
 
@@ -34,8 +34,9 @@ Output 1:
 
  [10, 12]
 
-
+```
 Example Explanation
+
 Explanation 1:
 
  All stepping numbers are 10 , 12 
