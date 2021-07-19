@@ -35,6 +35,7 @@ Return a single integer denoting maximum integer height of the sawblade that sti
 
 
 Example Input
+```
 Input 1:
 
  A = [20, 15, 10, 17]
@@ -72,3 +73,4 @@ Explanation 2:
   0 metres from fourth tree
   10 metres from fifth tree
   So in total you chopped 20 metres of wood.
+```
