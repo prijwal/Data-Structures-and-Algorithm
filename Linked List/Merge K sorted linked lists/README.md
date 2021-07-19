@@ -3,6 +3,7 @@ Given K sorted linked lists of different sizes. The task is to merge them in suc
 Example 1:
 
 Input:
+```
 K = 4
 value = {{1,2,3},{4 5},{5 6},{7,8}}
 Output: 1 2 3 4 5 5 6 7 8
@@ -29,12 +30,18 @@ list of size 2, 3, 1.
 3rd list 8
 The merged list will be
 1->3->4->5->6->8.
+```
 Your Task:
+
 The task is to complete the function mergeKList() which merges the K given lists into a sorted one. The printing is done automatically by the driver code.
 
 Expected Time Complexity: O(nk Logk)
+
 Expected Auxiliary Space: O(k)
 Note: n is the maximum size of all the k link list
 
+
 Constraints
+
 1 <= K <= 103
+
