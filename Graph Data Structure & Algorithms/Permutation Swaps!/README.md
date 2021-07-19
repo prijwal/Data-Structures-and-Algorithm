@@ -35,6 +35,7 @@ If the permutation B can be obtained return 1 else return 0.
 
 
 Example Input
+```
 Input 1:
 
  A = [1, 3, 2, 4]
@@ -58,13 +59,15 @@ Output 1:
 Output 2:
 
  1
-
+```
 
 Example Explanation
+
 Explanation 1:
 
  As A != B you have to perform operations on A but there is only good pair available i,e (3, 4) so if you swap
  A3 with A4 you get A = [1, 3, 4, 2] which is not equal to B so we will return 0.
+ 
 Explanation 2:
 
  As A != B you have to perform operations on A but there is only good pair available i,e (2, 4) so if you swap
