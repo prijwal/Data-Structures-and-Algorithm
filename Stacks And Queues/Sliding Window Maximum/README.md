@@ -7,7 +7,7 @@ You can only see the w numbers in the window. Each time the sliding window moves
 rightwards by one position. You have to find the maximum for each window. 
 
 The following example will give you more clarity.
-
+```
 The array A is [1 3 -1 -3 5 3 6 7], and B is 3.
 
 Window position	Max
@@ -23,17 +23,22 @@ Return an array C, where C[i] is the maximum value of from A[i] to A[i+B-1].
 Note: If B > length of the array, return 1 element with the max of the array.
 
 
+```
 
 
 Input Format
 
 The first argument given is the integer array A.
+
 The second argument given is the integer B.
+
 Output Format
 
-Return an array C, where C[i] is the maximum value of from A[i] to A[i+B-1]
-For Example
 
+Return an array C, where C[i] is the maximum value of from A[i] to A[i+B-1]
+
+For Example
+```
 Input 1:
     A = [1, 3, -1, -3, 5, 3, 6, 7]
     B = 3
