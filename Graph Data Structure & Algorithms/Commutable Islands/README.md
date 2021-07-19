@@ -20,6 +20,7 @@ Constraints:
 Examples:
 
 Input 1:
+```
     A = 4
     B = [   [1, 2, 1]
             [2, 3, 4]
@@ -29,10 +30,10 @@ Input 1:
 
 Output 1:
     6
-
+```
 Explanation 1:
     We can choose bridges (1, 2, 1), (1, 4, 3) and (4, 3, 2), where the total cost incurred will be (1 + 3 + 2) = 6.
-
+```
 Input 2:
     A = 4
     B = [   [1, 2, 1]
@@ -42,6 +43,6 @@ Input 2:
 
 Output 2:
     6
-
+```
 Explanation 2:
     We can choose bridges (1, 2, 1), (2, 3, 2) and (1, 4, 3), where the total cost incurred will be (1 + 2 + 3) = 6.
