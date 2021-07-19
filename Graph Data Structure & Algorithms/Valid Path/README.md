@@ -24,7 +24,7 @@ Constraints
 1 <= N <= 1000
 Center of each circle would lie within the grid
 For Example
-
+```
 Input:
     x = 2
     y = 3
@@ -34,7 +34,8 @@ Input:
     B = [3]
 Output:
     NO
-   
+   ```
 Explanation:
-    There is NO valid path in this case
+
+There is NO valid path in this case
 Note:You only need to implement the given function. Do not read input, instead use the arguments to the function. Do not print the output, instead return values as specified. Still have a doubt? Checkout Sample Codes for more details.
