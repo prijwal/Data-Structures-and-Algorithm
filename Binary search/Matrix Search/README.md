@@ -25,7 +25,7 @@ Constraints
 1 <= N, M <= 1000
 1 <= A[i][j], B <= 10^6
 For Example
-
+```
 Input 1:
     A = 
     [ [1,   3,  5,  7],
@@ -41,3 +41,4 @@ Input 2:
     B = 3
 Output 2:
     0
+```
