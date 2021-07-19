@@ -32,6 +32,7 @@ Return 1 if cycle is present else return 0.
 
 
 Example Input
+```
 Input 1:
 
  A = 5
@@ -48,7 +49,7 @@ Input 2:
         [1, 3]
      ]
 
-
+```
 Example Output
 Output 1:
 
@@ -59,6 +60,7 @@ Output 2:
 
 
 Example Explanation*
+
 Explanation 1:
 
  There is a cycle in the graph i.e 1 -> 2 -> 3 -> 1 so we will return 1
