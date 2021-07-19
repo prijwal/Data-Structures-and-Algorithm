@@ -19,7 +19,7 @@ Constraints
 1 <= N <= 10^6
 1 <= A[i], B <= 10^9
 For Example
-
+```
 Input 1:
     A = [5, 7, 7, 8, 8, 10]
     B = 8
@@ -35,3 +35,4 @@ Input 2:
     B = 3
 Output 2:
     [-1, -1]
+```
