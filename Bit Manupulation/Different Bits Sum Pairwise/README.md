@@ -3,7 +3,7 @@ We define f(X, Y) as number of different corresponding bits in binary representa
 You are given an array of N positive integers, A1, A2 ,…, AN. Find sum of f(Ai, Aj) for all pairs (i, j) such that 1 ≤ i, j ≤ N. Return the answer modulo 109+7.
 
 For example,
-
+```
 A=[1, 3, 5]
 
 We return
@@ -15,3 +15,4 @@ f(5, 1) + f(5, 3) + f(5, 5) =
 0 + 1 + 1 +
 1 + 0 + 2 +
 1 + 2 + 0 = 8
+```
