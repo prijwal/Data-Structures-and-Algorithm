@@ -58,7 +58,7 @@ Explanation for Input-1:
  Matrix looks like: RRR
                     DDD
                     UUU
-                    ```
+ ```
  We go right two times and down two times.
  So from top-right cell we are going down though right is given so this incurs a cost of 1.
  
