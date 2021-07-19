@@ -19,7 +19,7 @@ Constraints
 
 1 <= A <= 10^9
 For Example
-
+```
 Input 1:
     A = 11
 Output 1:
@@ -29,3 +29,4 @@ Input 2:
     A = 9
 Output 2:
     3
+```
