@@ -23,7 +23,9 @@ is circular or not. It should return true or false accordingly. (the driver code
 1 if the returned values is true, otherwise 0)
 
 Expected Time Complexity: O(N).
+
 Expected Auxiliary Space: O(1).
 
 Constraints:
+
 1 <=Number of nodes<= 100
