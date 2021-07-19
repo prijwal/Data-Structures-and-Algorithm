@@ -36,6 +36,7 @@ Return 1 if cycle is present else return 0.
 
 
 Example Input
+```
 Input 1:
 
  A = 5
@@ -53,8 +54,9 @@ Input 2:
         [3, 4] 
         [4, 5] ]
 
-
+```
 Example Output
+
 Output 1:
 
  1
@@ -64,9 +66,11 @@ Output 2:
 
 
 Example Explanation*
+
 Explanation 1:
 
  The given graph contain cycle 1 -> 3 -> 4 -> 1 or the cycle 1 -> 2 -> 4 -> 1
+ 
 Explanation 2:
 
  The given graph doesn't contain any cycle.
