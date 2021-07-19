@@ -12,21 +12,32 @@ Note: A will be always a valid expression.
 Input Format
 
 The only argument given is string A.
+
 Output Format
 
 Return 1 if string has redundant braces, else return 0.
+
 For Example
 
 Input 1:
+```
     A = "((a + b))"
 Output 1:
-    1
-    Explanation 1:
-        ((a + b)) has redundant braces so answer will be 1.
+
+  1
+    
+  Explanation 1:
+    
+  ((a + b)) has redundant braces so answer will be 1.
+        
 
 Input 2:
+
     A = "(a + (a + b))"
+    
 Output 2:
-    0
-    Explanation 2:
-        (a + (a + b)) doesn't have have any redundant braces so answer will be 0.
+  0
+    
+ Explanation 2:
+    
+ (a + (a + b)) doesn't have have any redundant braces so answer will be 0.
