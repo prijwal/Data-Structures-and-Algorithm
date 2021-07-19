@@ -22,11 +22,13 @@ Find the area of largest rectangle in the histogram.
 Input Format
 
 The only argument given is the integer array A.
+
 Output Format
 
 Return the area of largest rectangle in the histogram.
-For Example
 
+For Example
+```
 Input 1:
     A = [2, 1, 5, 6, 2, 3]
 Output 1:
