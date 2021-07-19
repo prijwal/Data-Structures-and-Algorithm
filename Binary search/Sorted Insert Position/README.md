@@ -26,6 +26,7 @@ Return an integer, the answer to the problem.
 
 
 **Example Input**
+```
 Input 1:
 
  A = [1, 3, 5, 6]
@@ -52,3 +53,4 @@ Explanation 1:
 Explanation 2:
 
  2 will be inserted ar index 1.
+```
