@@ -22,6 +22,7 @@ Return an integer denoting the ( Total number of set bits in the binary represen
 
 
 Example Input
+```
 Input 1:
 
  A = 3
@@ -38,7 +39,7 @@ Output 2:
 
  1
 
-
+```
 Example Explanation
 Explanation 1:
 
