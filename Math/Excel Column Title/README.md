@@ -5,21 +5,28 @@ Given a positive integer A, return its corresponding column title as appear in a
 
 
 Problem Constraints
+
 1 <= A <= 1000000000
 
 
 
+
 Input Format
+
 First and only argument is integer A.
 
 
 
+
 Output Format
+
 Return a string, the answer to the problem.
 
 
 
+
 Example Input
+```
 Input 1:
 
  A = 1
