@@ -24,6 +24,7 @@ Return an integer denoting the Ath number whose binary representation is a palin
 
 
 Example Input
+```
 Input 1:
 
  A = 1
@@ -40,7 +41,7 @@ Output 2:
 
  27
 
-
+```
 Example Explanation*
 Explanation 1:
 
