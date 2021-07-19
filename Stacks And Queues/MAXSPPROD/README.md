@@ -11,6 +11,7 @@ NOTE:  As the answer can be large, output your answer modulo 109 + 7.
 
 
 Problem Constraints
+
 1 <= N <= 105
  
 1 <= A[i] <= 109
@@ -18,17 +19,21 @@ Problem Constraints
 
 
 Input Format
+
 First and only argument is an integer array A.
 
 
 
 Output Format
+
 Return an integer denoting the maximum special product of any integer.
 
 
 
 Example Input
+
 Input 1:
+
 
  A = [1, 4, 3, 4]
 Input 2:
@@ -37,6 +42,7 @@ Input 2:
 
 
 Example Output
+```
 Output 1:
 
  3
