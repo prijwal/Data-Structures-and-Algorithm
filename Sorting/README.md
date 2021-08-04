@@ -19,7 +19,7 @@ Types of Sorting Algorithms:
 
 
 
-
+A Stable Sort is one which preserves the original order of input set
 
 
 
