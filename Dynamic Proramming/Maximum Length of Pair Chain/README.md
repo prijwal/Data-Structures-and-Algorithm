@@ -29,4 +29,4 @@ n == pairs.length
 
 1 <= n <= 1000
 
--1000 <= lefti < righti < 1000
+-1000 <= left[i] < right[i] < 1000
