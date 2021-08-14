@@ -14,6 +14,5 @@ long long maximumAmount(int arr[], int n){
     vector<vector<long long>> dp(n,vector<long long>(n,-1));
     
     int ans=solve(dp,arr,n,0,n-1);
-    // long long ans=0;
     return ans;
 }
