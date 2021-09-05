@@ -7,7 +7,7 @@ bool isPalindrome(string s,int i,int j)
     }
     return true;
 }
-string longestPalin (string s){
+string longestPalindrome (string s){
     int n=s.length();
     string ans;
     int mx=-1;
