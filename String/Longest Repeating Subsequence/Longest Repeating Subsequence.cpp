@@ -1,8 +1,8 @@
 int LongestRepeatingSubsequence(string s1){
-		    int n=s1.length();
-		    int dp[n+1][n+1],i,j;
-		    string s2=s1;
-		    memset(dp,0,sizeof(dp));
+	int n=s1.length();
+	int dp[n+1][n+1],i,j;
+	string s2=s1;
+	memset(dp,0,sizeof(dp));
         for(i=1;i<=n;i++)
         {
             for(j=1;j<=n;j++)
@@ -14,4 +14,4 @@ int LongestRepeatingSubsequence(string s1){
             }
         }
         return dp[n][n];
-		}
+}
