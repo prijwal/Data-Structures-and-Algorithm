@@ -1,5 +1,6 @@
-Given a string S. The task is to print all permutations of a given string. Example 1:
-
+Given a string S. The task is to print all permutations of a given string.
+```
+Example 1:
 Input: ABC
 Output:
 ABC ACB BAC BCA CAB CBA
@@ -16,6 +17,7 @@ GBAS GBSA GSAB GSBA SABG SAGB SBAG
 SBGA SGAB SGBA
 Explanation:
 Given string ABSG has 24 permutations.
+```
 Your Task:
 
 You don't need to read input or print anything. Your task is to complete the function find_permutaion() which takes the string S as input parameter and returns a vector of string in lexicographical order.
