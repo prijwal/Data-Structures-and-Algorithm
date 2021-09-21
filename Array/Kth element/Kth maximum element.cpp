@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-    priority_queue<int,vector<int>, greater<int> > max_heap;
+    priority_queue<int,vector<int>, greater<int> > min_heap;
     int n,k;
     cin>>n>>k;
     
@@ -11,21 +11,21 @@ int main(){
     
     for(int i=0 ;i<n ;i++)
     {
-        if(max_heap.size()<k )
+        if(min_heap.size()<k )
         {
-            max_heap.push(a[i]);
+            min_heap.push(a[i]);
         }
         else
         {
-            if(max_heap.top()<a[i])
+            if(min_heap.top()<a[i])
             {
-                max_heap.pop();
-                max_heap.push(a[i]);
+                min_heap.pop();
+                min_heap.push(a[i]);
             }
         }
     }
     
-    cout<<max_heap.top()<<" ";
+    cout<<min_heap.top()<<" ";
     
     return 0;
 }
