@@ -1,4 +1,4 @@
-Linked list is defined in this way in all obove questions 
+Linked list simplest data structure yet it is the most used data structure as it is the building block of other data structure like stack and queue.
 ```
 struct Node
 
@@ -13,3 +13,4 @@ struct Node
         next = NULL;
     }
 };
+```
