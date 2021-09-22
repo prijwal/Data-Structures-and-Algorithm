@@ -14,10 +14,13 @@ struct Node {
 };
 Node* head = NULL;
 
-void push(int val) {
-   Node* newnode = new Node(val);
-   newnode->next = head;
-   head = newnode;
+void push() {
+    int val;
+    cout<<"Enter value to be pushed:"<<endl;
+    cin>>val;
+    Node* newnode = new Node(val);
+    newnode->next = head;
+    head = newnode;
 }
 
 void pop() {
@@ -60,32 +63,18 @@ int main() {
       cin>>ch;
       cout<<"choice "<<ch<<"\n";
       switch(ch) {
-         case 1: {
-            cout<<"Enter value to be pushed:"<<endl;
-            cin>>val;
-            push(val);
+         case 1: push();
             break;
-         }
-         case 2: {
-            pop();
+         case 2: pop();
             break;
-         }
-         case 3: {
-            display();
+         case 3: display();
             break;
-         }
-         case 4: {
-             top();
+         case 4: top();
              break;
-         }
-         case 5: {
-            cout<<"Exit"<<endl;
+         case 5: cout<<"Exit"<<endl;
             break;
-         }
-         default: {
-            cout<<"Invalid Choice"<<endl;
-         }
+         default: cout<<"Invalid Choice"<<endl;
       }
-   }while(ch!=4);
+   }while(ch!=5);
    return 0;
 }
