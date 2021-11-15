@@ -1,9 +1,6 @@
 map<Node*,int> mp;
-int mn=INT_MAX,mx=INT_MIN;
 void  traverse(Node *root,int hd=0) // having distance of each node
 {
-    mn=min(hd,mn);
-    mx=max(hd,mx);
     if(root==NULL)
         return;
     mp[root]=hd;
